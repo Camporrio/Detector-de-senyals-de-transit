@@ -12,3 +12,5 @@ on the type and order where the system recognise them.
 - colorange_detector.py is a support file to detect color range of an image
 
 - gui_signalsdetector.py is the UI
+
+IMPORTANT : use of py-tesseract OCR is required to work.
